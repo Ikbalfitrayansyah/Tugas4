@@ -7,7 +7,7 @@ function Navbar() {
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container-fluid">
           <Link to="/" className="navbar-brand">
-            ****
+           Ikbal Fitrayansyah
           </Link>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
@@ -35,7 +35,7 @@ function Navbar() {
                 </Link>
               </li>
             </ul>
-            <span className="navbar-text">WEB PERSONAL</span>
+            
           </div>
         </div>
       </nav>
