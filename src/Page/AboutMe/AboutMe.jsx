@@ -19,7 +19,7 @@ function AboutMe() {
                 <br />
                   <br /><br />
                   <br />
-                <p className="card-text">Tempat Tanggal Lahir : Mapin Kebak </p>
+                <p className="card-text">Tempat Tanggal Lahir : Mapin Kebak kec. Alas barat </p>
                 <p className="card-text">Lulusan : SMA Muhammadiyah Alas</p>
                 <p className="card-text">
                   Alamat : RT 01 RW 01 Dusun Mapin Kebak kec. ALas Barat Kab. Sumbawa
